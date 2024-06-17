@@ -1,0 +1,7 @@
+../Core/Src/main.c:45:5:main	16	static
+../Core/Src/main.c:87:6:sensorTask	24	static
+../Core/Src/main.c:154:6:motorTask	16	static
+../Core/Src/main.c:162:6:delaymS	16	static
+../Core/Src/main.c:167:6:delayuS	24	static
+../Core/Src/main.c:177:10:read_echo	16	static
+../Core/Src/main.c:201:10:read_echo2	16	static
